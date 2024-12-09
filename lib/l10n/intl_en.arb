@@ -1,0 +1,14 @@
+{
+  "networkError": "Network Error",
+  "systemError": "System Error",
+  "permissionRequestTitle": "Permission Request",
+  "permissionRequestContent": "This feature needs to access your camera for video streaming, microphone for audio streaming, and notification permission to keep streaming in background. Please allow these permissions.",
+  "scanPermissionRequestContent": "This feature needs to access your camera for QR code scanning. Please allow camera permission.",
+  "camera": "Camera",
+  "microphone": "Microphone",
+  "openPermissionTip": "Permissions disabled. Please enable manually.",
+  "tip": "Tips",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "openPermission": "Settings"
+}
